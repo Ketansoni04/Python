@@ -1,0 +1,8 @@
+Weather = "Snowy"
+
+if Weather == "Sunny":
+    print("Go for a Walk")
+elif Weather == "Rainy":
+    print("Read a Book")
+elif Weather == "Snowy":
+    print("Build a SnowMan")
